@@ -115,6 +115,11 @@ Contact:
 
 💻 GitHub: https://github.com/Aaaaddddyyyyyyyy
 
+
+
+📬 Connect With Me
+<p> <a href="https://linkedin.com/in/aditya-jha-aa211a29"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a> <a href="mailto:iadityajha693@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a> <a href="https://github.com/Aaaaddddyyyyyyyy"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"></a> </p>
+
 ⭐ Support
 
 If you like this repo, don’t forget to star ⭐ it!

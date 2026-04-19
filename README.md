@@ -1,127 +1,114 @@
-# 🚀 Machine Learning Projects Repository
+<!-- ================= HEADER ================= -->
 
-![ML Banner](https://img.shields.io/badge/Machine%20Learning-Projects-blue)
-![Python](https://img.shields.io/badge/Python-3.10+-yellow)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=25&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Data+Science+Enthusiast;Building+Real+World+ML+Projects;Open+to+Internships+🚀"/>
+</p>
+
+<!-- ================= VISITOR COUNT ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aaaaddddyyyyyyyy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-Hi, I'm **Aditya Jha** 👋  
-Aspiring **AI/ML Engineer & Data Scientist** passionate about solving real-world problems using Machine Learning and Data Analytics.
+## 🚀 About Me
+👋 Hi, I'm **Aditya Jha**  
+🎯 Aspiring **AI/ML Engineer & Data Scientist**
 
 - 🎓 B.Tech Student  
-- 📊 Strong in Data Analytics & ML  
+- 📊 Strong in Data Analytics  
 - 🧠 Exploring Deep Learning & Computer Vision  
-- 🚀 Building impactful AI solutions  
+- 🚀 Passionate about solving real-world problems  
 
 ---
 
-## 📌 Repository Overview
-This repository contains my **Machine Learning projects**, covering:
+## 📊 GitHub Stats
 
-- Data Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Model Building & Training  
-- Model Evaluation  
-- Deployment (FastAPI)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaaaddddyyyyyyyy&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaaaddddyyyyyyyy&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
----
-
-## 🧠 Projects Included
-
-### 🔹 1. Deepfake Low-Resolution Video Detection
-- 🎯 Goal: Detect fake vs real videos even in low resolution
-- 🛠️ Tech Stack:
-  - TensorFlow / Keras
-  - MobileNetV2
-  - OpenCV
-  - FastAPI
-- ⚙️ Features:
-  - Video Upload 🎬
-  - Frame Extraction
-  - CNN-based Classification
-- 📈 Outcome:
-  - Improved detection accuracy on compressed videos
-- 💡 Key Learning:
-  - Handling video data
-  - Model optimization for real-world scenarios
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaaaddddyyyyyyyy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 🔹 2. Smart Construction Estimator
-- 🎯 Goal: Estimate material cost and quantity
-- 🛠️ Tech Stack:
-  - Python
-  - Pandas
-  - NumPy
-- ⚙️ Features:
-  - User Input-based estimation
-  - Cost prediction
-- 📈 Outcome:
-  - Simplified construction planning
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,opencv,fastapi,numpy,pandas,matplotlib,seaborn,git,github,vscode&perline=6"/>
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Projects
 
-| Category        | Tools & Frameworks |
-|----------------|-------------------|
-| Programming    | Python 🐍 |
-| Libraries      | NumPy, Pandas, Matplotlib, Seaborn |
-| ML/DL          | Scikit-learn, TensorFlow, Keras |
-| Backend        | FastAPI |
-| Tools          | Git, VS Code |
+### 🔹 Deepfake Low-Resolution Video Detection
+- 🎯 Detect fake vs real videos  
+- ⚙️ MobileNetV2 + TensorFlow  
+- 🎬 Frame extraction + classification  
+- 🚀 FastAPI deployment  
 
 ---
 
-## 📊 Workflow
+### 🔹 Smart Construction Estimator
+- 📊 Predicts material cost & quantity  
+- 🛠️ Built using Pandas & NumPy  
 
-Dataset
+---
 
-↓
+## 🎬 Demo
 
-Data Cleaning
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+</p>
 
-↓
+---
 
-EDA 📊
+## 🐍 Contribution Snake
 
-↓
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aaaaddddyyyyyyyy/Aaaaddddyyyyyyyy/output/github-contribution-grid-snake.svg"/>
+</p>
 
-Feature Engineering
+---
 
-↓
+## 📈 Contribution Graph
 
-Model Training 🤖
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaaaddddyyyyyyyy&theme=tokyonight"/>
+</p>
 
-↓
+---
 
-Evaluation 📈
+## 🌐 Connect With Me
 
-↓
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-jha-aa211a290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jha-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Aaaaddddyyyyyyyy">
+    <img src="https://img.shields.io/badge/GitHub-Aaaaddddyyyyyyyy-black?style=for-the-badge"/>
+  </a>
+</p>
 
-Deployment 🚀
+---
 
+## ⭐ Support
 
+If you like this repo, give it a ⭐ and share!
 
+---
 
-
-📬 Connect With Me:
-
-📧 Email: iadityajha693@gmail.com
-
-
-💼 LinkedIn: https://www.linkedin.com/in/aditya-jha-aa211a290/
-
-
-💻 GitHub: https://github.com/Aaaaddddyyyyyyyy
-
-⭐ Support
-
-If you like this repo, don’t forget to star ⭐ it!
-
-📜 License
-
-This project is licensed under the MIT License
+<p align="center">
+  💡 *"Turning Data into Intelligence"* 🚀
+</p>

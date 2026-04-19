@@ -79,20 +79,34 @@ This repository contains my **Machine Learning projects**, covering:
 ## 📊 Workflow
 
 Dataset
+
 ↓
+
 Data Cleaning
+
 ↓
+
 EDA 📊
+
 ↓
+
 Feature Engineering
+
 ↓
+
 Model Training 🤖
+
 ↓
+
 Evaluation 📈
+
 ↓
+
 Deployment 🚀
 
-Contact
+
+Contact:
+
 📧 Email: iadityajha693@gmail.com
 
 
